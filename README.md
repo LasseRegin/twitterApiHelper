@@ -5,6 +5,7 @@ A python helper class for using the twitter search API.
 ## Documentation
 
 Before this can be used one must obtain access tokens from Twitters website.
+
 This can be done [Here](https://dev.twitter.com/oauth/overview).
 
 An example of usage:
