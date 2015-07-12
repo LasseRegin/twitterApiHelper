@@ -1,6 +1,6 @@
 #twitterApiHelper
 
-> A helper class for using the twitter search API
+A python helper class for using the twitter search API.
 
 ## Documentation
 
