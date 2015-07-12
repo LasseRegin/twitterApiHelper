@@ -6,11 +6,11 @@ class twitterApi:
     # Make sure following libraries are imported before using:
     # requests, base64, urllib
 
-    # Private keys
-    consumer_key = 'dkTumyNl7Zs4JJ0BZYAeL6v0f'
-    consumer_secret = 'klMkvx9kebz5lHS3wjQ5t4hcI4pA8L1xMpZv5uXGaKKr5EGhUa'
-    access_token_key = '141738469-FGdAvO3nsHAJub5WtZiLpKgLvwfyvcaAqNSdjnEq'
-    access_token_secret = '5TZD0dZVa3C8RlkDv9y9w73kPK2tW6AZYWuJyGcIExWdm'
+    # Private keys (can be obtained at https://dev.twitter.com/oauth/overview)
+    consumer_key        = 'XXXXXXXXXXXXXXXXXXXXXXXXX'                           # Insert own consumer key
+    consumer_secret     = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'  # Insert own consumer secret
+    access_token_key    = 'XXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'  # Insert own access token key
+    access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'       # Insert own access token secret
 
     # Bearer token
     token = {}
